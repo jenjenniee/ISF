@@ -26,7 +26,7 @@
 <img src= "https://user-images.githubusercontent.com/87688936/169703414-4175ef0d-213f-41d8-9606-8aa1dd7ba2cb.png" width="300"><br>
 
 **4. 감성 분석 (BERT, FASTTEXT)**
-<li> 댓글 데이터 레이블링 </li>
+Ⅰ. 댓글 데이터 레이블링 
 
 
 
