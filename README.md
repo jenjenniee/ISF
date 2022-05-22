@@ -5,11 +5,13 @@
 
 (2021 도쿄 올림픽 관련 국내외 (한.중.미) 인식 조사와 관련하여 데이터 수집 및 데이터 분석)<br>
 **1. 뉴스 기사 본문 및 댓글 크롤링**<br>
+
 한국 - 네이버 뉴스<br>
 중국 - sina<br>
 미국 - 뉴욕 타임즈<br>
 
 **2. 불용어 처리 및 본문 속 단어 빈도수 체크**<br>
+
 Ⅰ. nouns_of_daily.py -> 불용어 처리 및 top 10 추출<br>
    <img src= "https://user-images.githubusercontent.com/87688936/169702159-6ddd80be-289b-4828-82d2-95ce2d6c66ae.png" width="200" height="200"><br>
 Ⅱ.count_reply.c -> 날짜 별로 3국 각각 댓글 수 합계를 구하여, 어떤 날 제일 댓글이 활발했는지 체크<br>
@@ -26,6 +28,7 @@
 <img src= "https://user-images.githubusercontent.com/87688936/169703414-4175ef0d-213f-41d8-9606-8aa1dd7ba2cb.png" width="300"><br>
 
 **4. 감성 분석 (BERT, FASTTEXT)**
+
 Ⅰ. 댓글 데이터 레이블링 
 
 
