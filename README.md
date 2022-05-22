@@ -12,7 +12,7 @@
 <li> nouns_of_daily.py -> 불용어 처리 및 top 10 추출</li>
    <img src= "https://user-images.githubusercontent.com/87688936/169702159-6ddd80be-289b-4828-82d2-95ce2d6c66ae.png" width="200" height="200">
 <li>count_reply.c -> 날짜 별로 3국 각각 댓글 수 합계를 구하여, 어떤 날 제일 댓글이 활발했는지 체크</li><br>
-3. 데이터 그래프화
+3. 데이터 그래프화<br>
 Ⅰ. 올림픽 개최 전후 10일간 일별 top1 키워드 빈도수 체크 -> 올림픽 전후 키워드 빈도수 그래프 추출<br><br><br>
 Ⅱ. 올림픽 개최 전 후 30일간 top5 키워드에 대한 일별 키워드 빈도수 체크 -> top5 키워드에 대한 일별 키워드 빈도수 체크 그래프 추출<br>
 Ⅲ. 올림픽 개최 전 후 30일간 top5 키워드에 대한 주별 키워드 빈도수 체크 -> top5 키워드에 대한 주별 키워드 빈도수 체크 그래프 추출<br>
@@ -25,7 +25,7 @@
 
 ※ 데이터 범위
  7/23일 올림픽 개최일 기준 한달 전/후 6/23~8/21일 <br>
-※ 데이터 필드 목록
-<img src= "https://user-images.githubusercontent.com/87688936/169702096-172b50d6-1ac5-4df1-a3ff-d134b981f459.png" width="300">
-※ 수집 결과 
-한국 : 1,395,654개 
+※ 데이터 필드 목록<br>
+<img src= "https://user-images.githubusercontent.com/87688936/169702096-172b50d6-1ac5-4df1-a3ff-d134b981f459.png" width="300"><br>
+※ 수집 결과 <br>
+한국 : 1,395,654개 <br>
