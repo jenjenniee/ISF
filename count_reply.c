@@ -34,7 +34,7 @@ void GetfileList(char * path) {
     	for(i=0 ; i<1024 ; i++){
     		sPath[i] = '\0';
 		}
-		printf("%s\t¡æ\t", file_search.name);
+		printf("%s\tÂ¡Ã¦\t", file_search.name);
 		strcat(sPath, "C:/Users/acin/Desktop/news/");
 		strcat(sPath, file_search.name);
 		
