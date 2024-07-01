@@ -1,4 +1,4 @@
-* linguist-vendored
+
 *.jupyternotebook linguist-vendored=false
 *.c linguist-detectable=true
 *.python linguist-detectable=true
